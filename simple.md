@@ -43,5 +43,38 @@ permalink: /simple/
   <li>On first launch, right-click the app and select "Open" (required for apps not from the App Store)</li>
 </ol>
 
+<hr>
+
+<h3>JSONViewer</h3>
+<p>A simple, native macOS app for viewing JSON files — like Preview for images, but for <code>.json</code> files.</p>
+
+<p>
+  <a href="/assets/downloads/JSONViewer.dmg" class="btn btn-primary">
+    Download JSONViewer.dmg
+  </a>
+</p>
+
+<h4>Requirements</h4>
+<ul>
+  <li>macOS 13.0 or later</li>
+  <li>Universal binary (Intel + Apple Silicon)</li>
+</ul>
+
+<h4>Features</h4>
+<ul>
+  <li>Syntax highlighting: color-coded keys, strings, numbers, booleans, and null values</li>
+  <li>Expand/collapse objects and arrays with click</li>
+  <li>Error detection with line highlighting for invalid JSON</li>
+  <li>One-click copy to clipboard</li>
+  <li>Light/dark mode support</li>
+</ul>
+
+<h4>Installation</h4>
+<ol>
+  <li>Download and open the DMG</li>
+  <li>Drag JSONViewer to your Applications folder</li>
+  <li>On first launch, right-click the app and select "Open" (required for apps not from the App Store)</li>
+</ol>
+
   </div>
 </div>
