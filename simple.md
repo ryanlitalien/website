@@ -76,5 +76,39 @@ permalink: /simple/
   <li>On first launch, right-click the app and select "Open" (required for apps not from the App Store)</li>
 </ol>
 
+<hr>
+
+<h3>3DViewer</h3>
+<p>A simple, native macOS app for viewing 3D model files — like Preview for images, but for 3D models.</p>
+
+<p>
+  <a href="/assets/downloads/ThreeDViewer.dmg" class="btn btn-primary">
+    Download ThreeDViewer.dmg
+  </a>
+</p>
+
+<h4>Requirements</h4>
+<ul>
+  <li>macOS 13.0 or later</li>
+  <li>Universal binary (Intel + Apple Silicon)</li>
+</ul>
+
+<h4>Features</h4>
+<ul>
+  <li>Multiple format support: STL, OBJ, USDZ, PLY, and DAE files</li>
+  <li>Interactive controls: orbit, pan, and zoom</li>
+  <li>Wireframe mode toggle for inspecting model structure</li>
+  <li>Auto-centering and scaling for optimal viewing</li>
+  <li>Grid floor for spatial reference</li>
+  <li>Light/dark mode support</li>
+</ul>
+
+<h4>Installation</h4>
+<ol>
+  <li>Download and open the DMG</li>
+  <li>Drag ThreeDViewer to your Applications folder</li>
+  <li>On first launch, right-click the app and select "Open" (required for apps not from the App Store)</li>
+</ol>
+
   </div>
 </div>
