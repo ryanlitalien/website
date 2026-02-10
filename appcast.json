@@ -6,7 +6,7 @@
       "name": "Text Viewer",
       "description": "Plain text and code with syntax highlighting",
       "fileTypes": [".txt", ".log", ".swift", ".py", ".js", ".ts", ".c", ".cpp", ".h"],
-      "masUrl": null,
+      "macAppStoreUrl": null,
       "directUrl": "https://www.ryanlitalien.com/assets/downloads/TextViewer.dmg",
       "iconUrl": "https://www.ryanlitalien.com/assets/icons/text-viewer.png",
       "latestVersion": "1.0.0",
@@ -19,7 +19,7 @@
       "name": "JSON Viewer",
       "description": "JSON with collapsible sections and syntax highlighting",
       "fileTypes": [".json"],
-      "masUrl": null,
+      "macAppStoreUrl": null,
       "directUrl": "https://www.ryanlitalien.com/assets/downloads/JSONViewer.dmg",
       "iconUrl": "https://www.ryanlitalien.com/assets/icons/json-viewer.png",
       "latestVersion": "1.4.0",
@@ -32,10 +32,10 @@
       "name": "MD Viewer",
       "description": "Markdown rendering with live preview",
       "fileTypes": [".md", ".markdown"],
-      "masUrl": null,
+      "macAppStoreUrl": null,
       "directUrl": "https://www.ryanlitalien.com/assets/downloads/MarkdownViewer.dmg",
       "iconUrl": "https://www.ryanlitalien.com/assets/icons/md-viewer.png",
-      "latestVersion": "1.5.0",
+      "latestVersion": "1.7.0",
       "minimumOSVersion": "13.0",
       "releaseNotes": null
     },
@@ -45,7 +45,7 @@
       "name": "3D Viewer",
       "description": "3D model viewing with SceneKit",
       "fileTypes": [".obj", ".stl", ".usdz", ".scn"],
-      "masUrl": null,
+      "macAppStoreUrl": null,
       "directUrl": "https://www.ryanlitalien.com/assets/downloads/ThreeDViewer.dmg",
       "iconUrl": "https://www.ryanlitalien.com/assets/icons/3d-viewer.png",
       "latestVersion": "1.3.0",
@@ -58,10 +58,10 @@
       "name": "YAML Viewer",
       "description": "YAML with syntax highlighting and validation",
       "fileTypes": [".yaml", ".yml"],
-      "masUrl": null,
+      "macAppStoreUrl": null,
       "directUrl": "https://www.ryanlitalien.com/assets/downloads/YAMLViewer.dmg",
       "iconUrl": "https://www.ryanlitalien.com/assets/icons/yaml-viewer.png",
-      "latestVersion": "1.1.0",
+      "latestVersion": "1.2.1",
       "minimumOSVersion": "13.0",
       "releaseNotes": null
     },
@@ -71,7 +71,7 @@
       "name": "CSV Viewer",
       "description": "CSV and TSV data in a table format",
       "fileTypes": [".csv", ".tsv"],
-      "masUrl": null,
+      "macAppStoreUrl": null,
       "directUrl": "https://www.ryanlitalien.com/assets/downloads/CSVViewer.dmg",
       "iconUrl": "https://www.ryanlitalien.com/assets/icons/csv-viewer.png",
       "latestVersion": "1.0.0",
@@ -79,5 +79,5 @@
       "releaseNotes": null
     }
   ],
-  "lastUpdated": "2026-02-09T00:00:00Z"
+  "lastUpdated": "2026-02-10T00:00:00Z"
 }
