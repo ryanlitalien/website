@@ -8,6 +8,7 @@
       "fileTypes": [".txt", ".log", ".swift", ".py", ".js", ".ts", ".c", ".cpp", ".h"],
       "masUrl": null,
       "directUrl": "https://www.ryanlitalien.com/assets/downloads/TextViewer.dmg",
+      "iconUrl": "https://www.ryanlitalien.com/assets/icons/text-viewer.png",
       "latestVersion": "1.0.0",
       "minimumOSVersion": "13.0",
       "releaseNotes": null
@@ -20,6 +21,7 @@
       "fileTypes": [".json"],
       "masUrl": null,
       "directUrl": "https://www.ryanlitalien.com/assets/downloads/JSONViewer.dmg",
+      "iconUrl": "https://www.ryanlitalien.com/assets/icons/json-viewer.png",
       "latestVersion": "1.4.0",
       "minimumOSVersion": "13.0",
       "releaseNotes": null
@@ -32,6 +34,7 @@
       "fileTypes": [".md", ".markdown"],
       "masUrl": null,
       "directUrl": "https://www.ryanlitalien.com/assets/downloads/MarkdownViewer.dmg",
+      "iconUrl": "https://www.ryanlitalien.com/assets/icons/md-viewer.png",
       "latestVersion": "1.5.0",
       "minimumOSVersion": "13.0",
       "releaseNotes": null
@@ -44,6 +47,7 @@
       "fileTypes": [".obj", ".stl", ".usdz", ".scn"],
       "masUrl": null,
       "directUrl": "https://www.ryanlitalien.com/assets/downloads/ThreeDViewer.dmg",
+      "iconUrl": "https://www.ryanlitalien.com/assets/icons/3d-viewer.png",
       "latestVersion": "1.3.0",
       "minimumOSVersion": "13.0",
       "releaseNotes": null
@@ -56,6 +60,7 @@
       "fileTypes": [".yaml", ".yml"],
       "masUrl": null,
       "directUrl": "https://www.ryanlitalien.com/assets/downloads/YAMLViewer.dmg",
+      "iconUrl": "https://www.ryanlitalien.com/assets/icons/yaml-viewer.png",
       "latestVersion": "1.1.0",
       "minimumOSVersion": "13.0",
       "releaseNotes": null
@@ -68,10 +73,11 @@
       "fileTypes": [".csv", ".tsv"],
       "masUrl": null,
       "directUrl": "https://www.ryanlitalien.com/assets/downloads/CSVViewer.dmg",
+      "iconUrl": "https://www.ryanlitalien.com/assets/icons/csv-viewer.png",
       "latestVersion": "1.0.0",
       "minimumOSVersion": "13.0",
       "releaseNotes": null
     }
   ],
-  "lastUpdated": "2026-02-07T00:00:00Z"
+  "lastUpdated": "2026-02-09T00:00:00Z"
 }
