@@ -16,10 +16,14 @@ permalink: /simple/
 <p>A macOS menu bar app that manages all viewer apps, shared settings, and keeps everything up to date.</p>
 
 <p>
+  <img src="/assets/img/viewer-toolbox-screenshot.png" alt="Viewer Toolbox screenshot" style="max-width: 346px; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.15); margin-bottom: 16px;">
+</p>
+
+<p>
   <a href="https://ryanlitalien.gumroad.com/l/viewer-toolbox" class="btn btn-success">
     Buy on Gumroad — $20
   </a>
-  <span class="text-muted ms-2">v1.1.0</span>
+  <span class="text-muted ms-2">v1.2.0</span>
 </p>
 
 <h4>Features</h4>
@@ -104,7 +108,7 @@ permalink: /simple/
   <a href="/assets/downloads/MarkdownViewer.dmg" class="btn btn-primary">
     Download MarkdownViewer.dmg
   </a>
-  <span class="text-muted ms-2">v1.5.0</span>
+  <span class="text-muted ms-2">v1.7.0</span>
 </p>
 
 <h4>Requirements</h4>
